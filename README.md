@@ -5,9 +5,6 @@ Repositório para armazenar recursos sobre Git e GitHub do curso Versionamento d
 
 😎
 
-```
-git init
-```
 
 ## 🔍Referências
 - [Digital Inovation One]()
